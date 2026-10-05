@@ -1,5 +1,5 @@
 # OwlFC-Mini
-![OwlFC-Mini PCB](./Images/PCB.png)
+![OwlFC-Mini PCB](./Images/PCB.jpg)
 
 OwlFC-Mini is a 2-lane filament changer controller PCB designed for [NightOwl](https://github.com/mjonuschat/NightOwl/) filament changers. It features:
 - 2x Onboard TMC2209 Stepper Drivers
